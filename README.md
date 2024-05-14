@@ -30,7 +30,7 @@ Once project runs you will see http://localhost:3000 1.Run the url on your brows
 The web application code can be clonned from: https://github.com/pkoriris/akan-names.git
 
 Live Link
-https://pkoriris.github.io/akan-names/
+https://pkoriris.github.io/assync/
 
 BDD.
 See a small description of what the application does on the landing page.
